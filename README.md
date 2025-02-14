@@ -1,15 +1,15 @@
-# 🤖 Machine Learning Algorithms
+🤖 Machine Learning Algorithms
 Welcome to my Machine Learning Algorithms repository! 🚀 This repo contains Jupyter notebooks implementing Supervised and Unsupervised Machine Learning algorithms with explanations and code examples.
 
-## 📂 Algorithms Included
-### 1️⃣ Linear Regression
+📂 Algorithms Included
+1️⃣ Linear Regression
 📌 Type: Supervised Learning (Regression)
 📌 Use Case: Predicting continuous values (e.g., house prices, sales forecasting).
 📌 How it Works:
 
-###### Finds the best-fit line that minimizes the difference between predicted and actual values.
-###### Uses the Least Squares Method to minimize errors.
-####### Formula:
+Finds the best-fit line that minimizes the difference between predicted and actual values.
+Uses the Least Squares Method to minimize errors.
+Formula:
 𝑦
 =
 𝑚
