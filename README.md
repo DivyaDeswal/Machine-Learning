@@ -99,3 +99,38 @@ Dimensionality reduction is a technique used to reduce the number of input varia
 PCA is a widely used dimensionality reduction technique that transforms high-dimensional data into a lower-dimensional space by retaining the most significant features.
 
 The provided implementation applies PCA to the liver patient dataset, demonstrating how it helps in feature selection and improving model efficiency.
+
+## Contents
+
+### 1. Customer Segmentation for Retail
+
+Objective: Segment customers based on purchasing behavior.
+
+Techniques Used: Clustering algorithms such as K-Means and Hierarchical Clustering.
+
+Use Case: Helps businesses identify customer groups and tailor marketing strategies accordingly.
+
+Implementation: 
+The dataset consists of customer purchase history, and clustering techniques are applied to identify different customer segments. The model helps in understanding customer behavior, enhancing customer engagement, and improving business strategies.
+
+### 2. Zomato Restaurant Price Prediction (Accuracy: 0.92)
+
+Objective: Predict restaurant prices based on various factors such as location, cuisine, ratings, and reviews.
+
+Techniques Used: Regression models including Linear Regression, Decision Trees, and Random Forest.
+
+Use Case: Assists customers in understanding pricing trends and helps restaurant owners optimize pricing strategies.
+
+Implementation: The dataset includes restaurant details like type of cuisine, location, ratings, and price range. Regression models are trained to predict the price range of a restaurant with high accuracy (0.92), enabling better decision-making for both consumers and business owners.
+
+#### This project requires the following libraries:
+
+Python 3.x: The programming language used for the implementation.
+
+Scikit-learn: A machine learning library used for classification and clustering.
+
+Pandas: Used for handling and manipulating datasets.
+
+NumPy: Essential for numerical computing.
+
+Matplotlib & Seaborn: Used for data visualization.
