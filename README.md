@@ -76,3 +76,26 @@ git clone https://github.com/DivyaDeswal/Machine-Learning.git
 
 Open the notebooks in Jupyter or Google Colab.
 Run the code and experiment with different models
+
+## 📂 Classifiers
+### Boosting Ensemble Techniques
+
+Boosting is a powerful ensemble technique that combines multiple weak classifiers to form a strong classifier. The following methods are implemented in this repository:
+
+### 1️⃣ Adaboost (Adaptive Boosting): 
+A technique that adjusts weights iteratively to emphasize misclassified instances.
+
+### 2️⃣ XGBoost (Extreme Gradient Boosting): 
+An optimized gradient boosting library designed for speed and performance.
+
+### 3️⃣ LightGBM (Light Gradient Boosting Machine): 
+A gradient boosting framework that uses tree-based learning algorithms for faster training on large datasets.
+
+### Dimensionality Reduction Techniques
+
+Dimensionality reduction is a technique used to reduce the number of input variables in a dataset while retaining as much meaningful information as possible. This is particularly useful in handling high-dimensional data.
+
+### Principal Component Analysis (PCA): 
+PCA is a widely used dimensionality reduction technique that transforms high-dimensional data into a lower-dimensional space by retaining the most significant features.
+
+The provided implementation applies PCA to the liver patient dataset, demonstrating how it helps in feature selection and improving model efficiency.
